@@ -1,3 +1,4 @@
+vodka
 mozartbrezn
 mozartkugeln
 beer
@@ -8,3 +9,4 @@ birnen
 brokkoli
 börne
 braten
+stroh80
